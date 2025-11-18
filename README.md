@@ -1,4 +1,4 @@
-# 🚀 Proxmox GPU/vGPU Setup Script
+# 🚀 Proxmox 9 GPU/vGPU Setup Script
 
 <div align="center">
 
