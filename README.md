@@ -7,7 +7,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-9.0+-orange.svg)
 ![Bash](https://img.shields.io/badge/bash-5.0+-red.svg)
 
-**Configuration automatisée de GPU et vGPU pour Proxmox VE 9.x | 6.14.8-2-pve | vGPU 19**
+**Configuration automatisée de GPU passthough et vGPU pour Proxmox VE 9.x | 6.14.8-2-pve | vGPU 19**
 
 [Fonctionnalités](#-fonctionnalités) • [Installation](#-installation) • [Utilisation](#-utilisation) • [Documentation](#-documentation) • [Support](#-support)
 
@@ -39,7 +39,7 @@
 
 ## 🎯 À propos
 
-Ce script bash à pour but final **d'automatise entièrement** la configuration de GPU et vGPU sur Proxmox Virtual Environment 9.x. Il simplifie drastiquement un processus normalement complexe et sujet aux erreurs en offrant une interface interactive intuitive et des validations robustes avec affichages des informations les plus utiles.
+Ce script bash à pour but **d'automatise entièrement** la configuration de GPU et vGPU sur Proxmox Virtual Environment 9.x. Il simplifie drastiquement un processus normalement complexe et sujet aux erreurs en offrant une interface interactive intuitive et des validations robustes avec affichages des informations les plus utiles.
 
 ### 🌟 Pourquoi ce script ?
 
@@ -561,6 +561,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ## 🗺️ Roadmap
 
 - [ ] Add installation and configuration vgpu_unlock - vgpu_unlock-rs
+- [ ] Add passthough auto
 - [ ] Pilotes GPU/vGPU RTX 2060
 - [ ] Support GPU AMD
 - [ ] Interface web optionnelle
