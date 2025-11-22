@@ -1,4 +1,17 @@
 #!/bin/bash
+# Ce fichier fait partie de Proxmox V9 Patch Bluekeys Setup GPU vGPU.
+#
+# Proxmox V9 Patch Bluekeys Setup GPU vGPU est un logiciel libre : vous pouvez le redistribuer et/ou le modifier
+# selon les termes de la GNU Affero General Public License version 3,
+# telle que publiée par la Free Software Foundation.
+#
+# Ce programme est distribué dans l'espoir qu'il sera utile,
+# mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de
+# COMMERCIALISABILITÉ ou D'ADÉQUATION À UN USAGE PARTICULIER.
+# Voir la GNU Affero General Public License pour plus de détails.
+#
+# Vous devriez avoir reçu une copie de la GNU Affero General Public License
+# avec ce programme. Sinon, voir <https://www.gnu.org/licenses/>.
 
 # Proxmox V9 Support GPU and vGPU
 # Name : proxmox_patch_bluekeys_V2.2.sh
